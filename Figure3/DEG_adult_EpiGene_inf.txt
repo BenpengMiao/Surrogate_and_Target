@@ -1,0 +1,214 @@
+MGI_symbol	Aylor_TCDD_Female_adult	Bartolomei_BPA10mg_Female_adult	Bartolomei_BPA10ug_Female_adult	Biswal_PM2.5_Female_adult	Mutlu_PM2.5_Female_adult	Zhibin_As_Female_adult	Walker_TBT_Female_adt	Bartolomei_BPA10mg_Male_adult	Bartolomei_BPA10ug_Male_adult	Biswal_PM2.5_Male_adult	Dolinoy_Pb_Male_adult	Mutlu_PM2.5_Male_adult	Zhibin_As_Male_adult	Walker_TBT_Male_adt	Function	Modification	Function_v2	Modification_v2
+Actb	0	0	0	-0.585192127	0	0	0	0.7439571	0.725699157	0.734535358	0	0	0	-1.017781428	Chromatin remodeling cofactor	#	Chromatin remodeling	Chromatin remodeling
+Actr3b	0	0	0	-0.731616942	0	0	0	0	0	-1.35821989	0	0.812211724	-0.636348197	0.8311089	Chromatin remodeling	#	Chromatin remodeling	Chromatin remodeling
+Actr6	0	0	0	0	0	0	0	0	0	0	0	0	0	0.928066509	Chromatin remodeling cofactor	#	Chromatin remodeling	Chromatin remodeling
+Adnp	0	-0.978552713	0	0.975627532	0	0	0	0	0	0	0	0	0	0	Chromatin remodeling cofactor	#	Chromatin remodeling	Chromatin remodeling
+Anp32a	0	0	0	0	0	0	0	0.629116836	0	0	0	0	0	0	Chromatin remodeling cofactor	#	Chromatin remodeling	Chromatin remodeling
+Atrx	0	0	0	0	0	0	0	0	0	0.740241648	0	0	0	0	Chromatin remodeling	#	Chromatin remodeling	Chromatin remodeling
+Baz2a	0	0	0	0	0	0	0.683400209	0	0	0	0	0	0	0	"Chromatin remodeling, Histone modification erase"	Histone deacetylation	Chromatin remodeling	Chromatin remodeling
+Cdc6	1.023858574	0	0	0	0	0	0	0	0	-0.858883717	0	0	0	0	Chromatin remodeling	#	Chromatin remodeling	Chromatin remodeling
+Chaf1a	0	0	0	0	0	0	0	0	0	-0.64928381	0	0	0	0	Chromatin remodeling	#	Chromatin remodeling	Chromatin remodeling
+Chaf1b	0	0	0	0	0	0	0	0	0	-0.976154199	0	0	0	0	Chromatin remodeling	#	Chromatin remodeling	Chromatin remodeling
+Dek	0	0	0	0	0	0	0	0.778889622	0	0	0	0	0	0	Chromatin remodeling	#	Chromatin remodeling	Chromatin remodeling
+Dmap1	0	0	0	0	0	0	-0.668244452	0	0	0	0	0	0	0	Chromatin remodeling	#	Chromatin remodeling	Chromatin remodeling
+Gadd45a	0	0	0	0.813976544	0	0	0	0	-0.648176567	0	0	0	0	0	Chromatin remodeling	#	Chromatin remodeling	Chromatin remodeling
+Gadd45b	0	0	-0.639229222	0	0	0	-0.663806499	0	0	0	0	0	-0.66688709	0	Chromatin remodeling	#	Chromatin remodeling	Chromatin remodeling
+Gadd45g	0	0	0	0	0	0	0	0	0	0	0	0	0	-0.761381422	Chromatin remodeling	#	Chromatin remodeling	Chromatin remodeling
+Gfi1	0.884904906	-0.608500528	0	0	0	0	-0.857609492	0	0	-1.01001008	0	0	0	0	Chromatin remodeling	#	Chromatin remodeling	Chromatin remodeling
+Hmg20b	0	0.651295342	0	0	0	0	0	0	0	0	0	0	0	0	Chromatin remodeling	#	Chromatin remodeling	Chromatin remodeling
+Hmgn3	0	1.037489337	0	0	0	0	0	0.833371562	0.617399463	-0.598826068	0	0	0	-0.742020084	Chromatin remodeling	#	Chromatin remodeling	Chromatin remodeling
+Hmgn5	0	0	0	0	0	0	0.963073183	0.910569559	0	0	0	0	0	0.734367746	Chromatin remodeling	#	Chromatin remodeling	Chromatin remodeling
+Hp1bp3	0	0	0	0.601379303	0	0	0	0	0	0	0	0	0	0	Chromatin remodeling	#	Chromatin remodeling	Chromatin remodeling
+Ino80b	0	0.937251518	0	0	0	0	-0.603567003	0.713122535	0	0	0	0	0	0	Chromatin remodeling cofactor	#	Chromatin remodeling	Chromatin remodeling
+Ino80c	0	0	0	0.648184494	0	0	0	0	0	0	0	0	0	0	Chromatin remodeling cofactor	#	Chromatin remodeling	Chromatin remodeling
+Jdp2	0.75820411	0	-0.976454837	0	0	0	0	0	0	0	0.608064101	-0.863028208	0	-0.814491044	"Chromatin remodeling, Histone modification erase cofactor"	Histone acetylation	Chromatin remodeling	Chromatin remodeling
+Mbd5	0	0	0	0	0	0	0.61543006	0	0	0	0	0	0	0	Chromatin remodeling	#	Chromatin remodeling	Chromatin remodeling
+Myo1c	0	0	0	-0.746672919	0	0	0	0	0	0	0	0	0	0	Chromatin remodeling cofactor	#	Chromatin remodeling	Chromatin remodeling
+Ncoa2	0	-1.045261289	0	0	0	0	0.720840674	0	0	0	0	0	0	0	Chromatin remodeling cofactor	#	Chromatin remodeling	Chromatin remodeling
+Parp1	0	0	0	0	0	0	0	0	0	0	0	0.639940919	0	0	Chromatin remodeling	#	Chromatin remodeling	Chromatin remodeling
+Rad54b	0.680749962	0	0	0	0	0	0	0	0	0	0	0	0	0	Chromatin remodeling	#	Chromatin remodeling	Chromatin remodeling
+Rad54l	0.780388547	0.643581388	0.698041269	0	0	0	0	0	0	-0.773316919	0	0	0	0	Chromatin remodeling	#	Chromatin remodeling	Chromatin remodeling
+Rb1	0	-0.887123849	0	0	0	0	0.693877309	0	0	0	0	0	0	0	"Chromatin remodeling, Histone modification write"	Histone ubiquitination	Chromatin remodeling	Chromatin remodeling
+Ruvbl1	0	0	0	0	0	0	-0.58939895	0	0	0	0	0	0	0	"Chromatin remodeling, Histone modification write"	Histone phosphorylation	Chromatin remodeling	Chromatin remodeling
+Satb1	0	-0.732382438	0	0	0	0	0	0	0	0	0	0	0	0	Chromatin remodeling cofactor	#	Chromatin remodeling	Chromatin remodeling
+Satb2	0	0	0	0	0	0	1.039930595	0	0	0	0	0	0	0	Chromatin remodeling cofactor	#	Chromatin remodeling	Chromatin remodeling
+Smarcd3	0	0	0	2.075511048	0	0	-0.987182278	0	0	0	0	0	0	0	Chromatin remodeling cofactor	#	Chromatin remodeling	Chromatin remodeling
+Sp1	0	0	0	0	0	0	0	0	0	0.646621093	0	0	0	0	"Chromatin remodeling, TF"	"TF activator, TF repressor"	Chromatin remodeling	Chromatin remodeling
+Sp100	0	0	0	0	0	0	0.778084579	0	0	0	0	0	0	0	Chromatin remodeling cofactor	#	Chromatin remodeling	Chromatin remodeling
+Srcap	0	0	0	0	0	0	0.630015164	0	0	1.007724311	0	0	0	0.661108576	"Chromatin remodeling, Histone modification erase"	Histone acetylation	Chromatin remodeling	Chromatin remodeling
+Tle1	0	0	0	0.666425471	0	0	0	0	0	0	0	0	0	0	"Chromatin remodeling, Histone modification cofactor"	#	Chromatin remodeling	Chromatin remodeling
+Tonsl	0	0	0	0	0	0	0	0	0	-0.620967209	0	0	0	0	Chromatin remodeling	#	Chromatin remodeling	Chromatin remodeling
+Top2a	1.241997616	0	0	0	0	0	0	0	0	-0.974227993	0	-0.655989012	0	0	Chromatin remodeling	#	Chromatin remodeling	Chromatin remodeling
+Ubr5	0	-0.658091349	0	0	0	0	0	0	0	0	0	0	0	0	"Chromatin remodeling, Histone modification write cofactor"	Histone ubiquitination	Chromatin remodeling	Chromatin remodeling
+Yaf2	0	-1.494600972	-1.304763986	1.745933641	0	0	0	0	0	-0.618913798	0	0	0	-0.610794433	Chromatin remodeling cofactor	#	Chromatin remodeling	Chromatin remodeling
+Zranb3	0	-1.269829701	-0.783229468	1.382751364	0	0	0	0	0	-0.761868818	0	0	0	0	"Chromatin remodeling, Histone modification read cofactor"	Histone methylation	Chromatin remodeling	Chromatin remodeling
+Tet1	0	-1.784331244	0	0	0	0	0	0	0	0	-0.930671046	0	0	0	DNA modification	DNA hydroxymethylation	DNA modification	DNA hydroxymethylation
+Tet2	0	0	0	0	0	0	0.60654614	0	0	0	0	0	0	0	DNA modification	DNA hydroxymethylation	DNA modification	DNA hydroxymethylation
+Tet3	0	0	0	0	0	0	0.927396411	0	0	0	0	0	0	0	DNA modification	DNA hydroxymethylation	DNA modification	DNA hydroxymethylation
+Aicda	0	0	0	-2.111028082	0	0	-1.336631721	0	0	-1.400217464	0	0	0	-1.773988462	DNA modification	DNA demethylation	DNA modification	DNA demethylation
+Apobec1	0	0.760476228	0	0	0	0	0	0	0	0.599249498	0	0	0	0	"DNA modification, RNA modification"	"DNA demethylation, mRNA editing"	DNA modification	DNA demethylation
+Apobec2	0	0	0	0	0	0	-1.082762331	0	0	0	0	0	0	0	"DNA modification, RNA modification"	"DNA demethylation, mRNA editing"	DNA modification	DNA demethylation
+Apobec3	0	0	0	-0.664197422	0	0	0	0	0	0	0	0	0	0	"DNA modification, RNA modification"	"DNA demethylation, mRNA editing"	DNA modification	DNA demethylation
+Dnmt3b	0	0	0	0	0	0	0	0	0	0	0	0	0	0.640267447	DNA modification	DNA methylation	DNA modification	DNA demethylation
+Anp32e	0	0	0	0	0	0	0	0	0	0	0	0	-0.648872308	0	"Histone chaperone, Histone modification read"	#	Histone chaperone	Histone chaperone
+Asf1a	0	0	0	0	0	0	0	0	0	0	0	0	0	0.663026498	Histone chaperone	#	Histone chaperone	Histone chaperone
+Asf1b	0	0	0	0	0	0	0	0	0	-1.235950995	0	0	0	0	Histone chaperone	#	Histone chaperone	Histone chaperone
+Dr1	0	-0.729402662	0	0	0	0	0.598548571	0	0	0.602374826	0	0	0	0	Histone chaperone	#	Histone chaperone	Histone chaperone
+Ncl	0	0	0	0	0	0	0.84869029	0.798286031	0	0	0	0	0	0	Histone chaperone	#	Histone chaperone	Histone chaperone
+Npm1	0	0	0	0	0	0	0	0.687791233	0	0	0	0	0	0	Histone chaperone	#	Histone chaperone	Histone chaperone
+Pole3	0	0	0	0	0	0	0	0	0	-0.647526421	0	0	0	0	Histone chaperone	#	Histone chaperone	Histone chaperone
+Tada1	0	-0.64688704	0	0	0	0	0	0	0	0	0	0	0	0	Histone chaperone	#	Histone chaperone	Histone chaperone
+Atad2b	0	0	0	0	0	0	0	0	0	0.685001152	0	0	0	0	Histone modification read	#	Histone modification	Read
+Baz2b	0	0.601237886	0	0	0	0	0.613923549	0	0	0	0	0	0.589832348	0	Histone modification read	#	Histone modification	Read
+Brd4	0	0	0	0	0	0	1.095339939	0	0	0	0	0	0	0	Histone modification read	#	Histone modification	Read
+Brdt	-0.865079747	0	0	0	0	0	0	0	0	0	0	0	0	0	Histone modification read	#	Histone modification	Read
+Brwd3	0	-0.96391519	0	0	0	0	0	0	0	0.976463928	0	0	0	0	Histone modification read	#	Histone modification	Read
+Cbx2	0	0	0	0	0	0	0	0	0	-0.871602143	0	0	0	-0.826405332	Histone modification read	#	Histone modification	Read
+Cbx7	0	0	0	0	0	0	0	0	-0.649596979	0	0	0	0	0	Histone modification read	#	Histone modification	Read
+Cecr2	0	0	0	-1.256606909	0	0	0	0	0	-0.732180711	0	0	0	0	Histone modification read	#	Histone modification	Read
+Cir1	0	0	0	0	0	0	0.79050205	0	0	-0.621936292	0	-0.968037607	0	0	Histone modification read	#	Histone modification	Read
+Dnajc2	0	0	0	0	0	0	0	0.719604172	0	0	0	0	0	0	Histone modification read	#	Histone modification	Read
+Gatad1	0	-1.558016951	-1.271234842	2.029902333	0	0	0	0	0	0	0	0	0	-1.027686205	Histone modification read	#	Histone modification	Read
+Gatad2b	0	0	0	0	0	0	0.795871256	0	0	0	0	0	0	0	Histone modification read	#	Histone modification	Read
+Ing2	0	0	0	0	0	0	0	0	0	-0.693348049	0	0	0	0	Histone modification read	#	Histone modification	Read
+Mphosph8	0	0	0	0	0	0	0	0.995340436	0	0	0	0	0	0	Histone modification read	#	Histone modification	Read
+Msh6	0	-0.589375106	0	0	0	0	0	0	0	0	0	0	0	0	Histone modification read	#	Histone modification	Read
+Pbrm1	0	0	0	0	0	0	0.840882173	0	0	0	0	0	0	0.586345253	Histone modification read	#	Histone modification	Read
+Pelp1	0	0.843637476	0	0	0	0	0	0	0	0	0	0	0	0	"Histone modification read, Histone modification write cofactor"	"Histone methylation, Histone acetylation"	Histone modification	Read
+Phf20l1	0	0	0	0	0	0	0	0	0	0.585505286	0	0	0	0	Histone modification read	#	Histone modification	Read
+Sfmbt2	0	-1.188972238	0	-0.907593721	0	0	0	0	0	1.455841133	0	-0.902682662	0	0	"Histone modification read, Polycomb group (PcG) protein, TF"	TF repressor	Histone modification	Read
+Sp140	0	0.625420309	0	0	0	0	0	0	0	0	0	0	0	0	"Histone modification read, TF"	#	Histone modification	Read
+Tada2a	0	0	0	-0.588203353	0	0	0	0	0	0	0	0	0	0	"Histone modification read, TF"	TF activator	Histone modification	Read
+Taf3	0	0	0	0	0	0	0.616939255	0.767015631	0	0	0	0	0	0	Histone modification read	#	Histone modification	Read
+Trim33	0	-0.597575364	0	0	0	0	0	0	0	0	0	0	0	0	Histone modification read	#	Histone modification	Read
+Uhrf1	0	0	0	0	0	0	0	0	0	-1.404058069	0	0	0	0	"Histone modification read, Histone modification write cofactor"	Histone ubiquitination	Histone modification	Read
+Ywhaz	0	0	0	0	0	0	0	0	0	0	0	0	0	-0.645992307	Histone modification read	#	Histone modification	Read
+Zcwpw1	0	1.131921231	0	0	0	0	-0.677438824	0	0	0	0	0	0	0	Histone modification read	#	Histone modification	Read
+Rad51	0.687617042	0	0	0	0	0	0	0	0	0	0	0	0	0.729934864	Histone modification erase	Histone ubiquitination	Histone modification	Histone ubiquitination
+Usp12	0	0	0	0	0	0	0	0	0	0.673210219	0	0	0	0	Histone modification erase	Histone ubiquitination	Histone modification	Histone ubiquitination
+Usp15	0	0	0	0	0	0	0	-0.682580056	0	-0.683708153	0	-0.995006168	0	0	Histone modification erase	Histone ubiquitination	Histone modification	Histone ubiquitination
+Usp46	0	-1.120967552	-0.898539668	1.36214361	0	0	0	0	0	0	0	0	0	0	Histone modification erase	Histone ubiquitination	Histone modification	Histone ubiquitination
+Usp49	0	0	0	-0.916205181	0	0	0	0	0	0	0	0	0	0	Histone modification erase	Histone ubiquitination	Histone modification	Histone ubiquitination
+Bard1	0	-1.325931438	0	0	0	0	0	0	0	0	0	0	0	0	Histone modification write	Histone ubiquitination	Histone modification	Histone ubiquitination
+Cul4a	0	0	0	0	0	0	0	0	0	0	0	-0.887446232	0	0	Histone modification write	Histone ubiquitination	Histone modification	Histone ubiquitination
+Cul4b	0	-0.987406124	0	0	0	0	0	0	0	0	0	0	0	0	Histone modification write	Histone ubiquitination	Histone modification	Histone ubiquitination
+Dtx3l	0	0	0	0	0	0	0.615403662	0	0	0	0	0	0	0	Histone modification write	Histone ubiquitination	Histone modification	Histone ubiquitination
+Huwe1	0	0	0	0	0	0	0	0	0	0.611726908	0	0	0.630835904	0	Histone modification write	Histone ubiquitination	Histone modification	Histone ubiquitination
+Rag1	0	0	0	-3.050540322	0	0	-2.430322076	0	0	-0.902395571	0	0	0	0.897129004	Histone modification write	Histone ubiquitination	Histone modification	Histone ubiquitination
+Ring1	0	0.698698173	0	0	0	0	0	0	0	0	0	0	0	0	"Histone modification write, Polycomb group (PcG) protein"	Histone ubiquitination	Histone modification	Histone ubiquitination
+Rnf2	0	-0.657507591	0	0	0	0	0	0	0	0	0	0	0	0	Histone modification write	Histone ubiquitination	Histone modification	Histone ubiquitination
+Rnf8	0	0.64043917	0	0	0	0	0	0	0	0	0	0	0	0	Histone modification write	Histone ubiquitination	Histone modification	Histone ubiquitination
+Spop	0	0	0	0	0	0	0.851518174	0	0	0	0	0	0	0.662184876	Histone modification write	Histone ubiquitination	Histone modification	Histone ubiquitination
+Ube2b	0	0	0	0	0	0	0.634797267	0	0	0	0	-0.697037811	-0.808354864	0.642296226	Histone modification write	Histone ubiquitination	Histone modification	Histone ubiquitination
+Ube2e1	0	0	0	0	0	0	0	0	0	0	0	0	-0.712641654	0	Histone modification write	Histone ubiquitination	Histone modification	Histone ubiquitination
+Ube2h	0	0	0	0	0	0	0.683940718	0	0	0	0	0	0	0	Histone modification write	Histone ubiquitination	Histone modification	Histone ubiquitination
+Ube2t	0	0	0	0	0	0	0	0	0	-0.651107609	0	0	0	0	Histone modification write	Histone ubiquitination	Histone modification	Histone ubiquitination
+Leo1	0	0	-0.733289907	0	0	0	0	0	0	0	0	0	0	0	Histone modification write cofactor	Histone ubiquitination	Histone modification	Histone ubiquitination
+Shprh	0	-0.601119808	0	0	0	0	0	0	0	0	0	0	0	0.590808462	Histone modification write cofactor	Histone ubiquitination	Histone modification	Histone ubiquitination
+Wac	0	-0.695211986	0	0	0	0	0	0	0	0	0	0	0	0	Histone modification write cofactor	Histone ubiquitination	Histone modification	Histone ubiquitination
+Senp1	0	0	0	0	0	0	0.621884068	0	0	0	0	0	0	0	Histone modification erase cofactor	Histone sumoylation	Histone modification	Histone sumoylation
+Eya2	0	-1.227843885	-0.907473578	0.825733965	0	0	-0.787332338	0	0	0	0	0	0	0	Histone modification erase	Histone phosphorylation	Histone modification	Histone phosphorylation
+Atm	0	-0.979237657	0	0	0	0	0	0	0	0	0	0	0	0	Histone modification write	Histone phosphorylation	Histone modification	Histone phosphorylation
+Aurka	0	0	0	0	0	0	0	0	0	-0.667425517	0	0	0	0	Histone modification write	Histone phosphorylation	Histone modification	Histone phosphorylation
+Aurkb	0	0	0	0	0.843867761	0	0	0	0	0	0	0	0	0	Histone modification write	Histone phosphorylation	Histone modification	Histone phosphorylation
+Bub1	1.531573333	0	0	0	0	0	0	0	0	0	0	0	0	0	Histone modification write	Histone phosphorylation	Histone modification	Histone phosphorylation
+Cdk1	0	0	0	0	0	0	0	0	0	-1.279640603	0	0	0	0	Histone modification write	Histone phosphorylation	Histone modification	Histone phosphorylation
+Cdk17	0	-0.75668191	0	0	0	0	0	0	0	0	0	0	0	0	Histone modification write	Histone phosphorylation	Histone modification	Histone phosphorylation
+Cdk2	0	0	0	0	0	0	0	0	0	0	0	0.590082647	0	0	Histone modification write	Histone phosphorylation	Histone modification	Histone phosphorylation
+Prkaa1	0	0	0	0	0	0	0	0	0	0.625508721	0	0	0	0	Histone modification write	Histone phosphorylation	Histone modification	Histone phosphorylation
+Prkaa2	0	-3.059721394	-1.477477	3.292878004	0	0	0	-1.083125493	0	-0.681625954	0	0	0	0	Histone modification write	Histone phosphorylation	Histone modification	Histone phosphorylation
+Rps6ka4	0	0	0	0	0	0	0	0	0	0	0	0	0	-0.817730503	Histone modification write	Histone phosphorylation	Histone modification	Histone phosphorylation
+Rps6ka5	0	0	0	0	0	0	0.684979609	0	0	0	0	0	0	0	Histone modification write	Histone phosphorylation	Histone modification	Histone phosphorylation
+Stk4	0	-0.73845012	0	0	0	0	0	0	0	0	0	0	0	0	Histone modification write	Histone phosphorylation	Histone modification	Histone phosphorylation
+Tlk1	0	-1.080973756	0	0.939186141	0	0	0	0	0	0	0	0	0	0	Histone modification write	Histone phosphorylation	Histone modification	Histone phosphorylation
+Pkm	0	0	-0.636152154	0	0	0	0	0	0	0	0	0	0	-1.205925061	Histone modification write cofactor	Histone phosphorylation	Histone modification	Histone phosphorylation
+Prkab1	0	0	0	0	0	0	0	0	0	-0.608089931	0	0	0	0	Histone modification write cofactor	Histone phosphorylation	Histone modification	Histone phosphorylation
+Prkab2	0	-1.395398079	-0.937871263	1.430107492	0	0	0	0	0	-0.629141412	0	0	0	-0.705155585	Histone modification write cofactor	Histone phosphorylation	Histone modification	Histone phosphorylation
+Prkca	0	-1.062400191	0	1.623056616	0	0	0	0	0	-0.627103518	0	0	0	-0.811400492	Histone modification write cofactor	Histone phosphorylation	Histone modification	Histone phosphorylation
+Rps6ka3	0	-0.618469135	0	0	0	0	0	0	0	0.634330736	0	0	0	0	Histone modification write cofactor	Histone phosphorylation	Histone modification	Histone phosphorylation
+Alkbh1	0	0	0	0	0	0	0	0	0	0	0	0	0	0.614702531	Histone modification	#	Histone modification	Histone modification
+Apbb1	0	0	0	1.853258012	0	0	0	0	0	-1.131314413	0	0	0	0	Histone modification	#	Histone modification	Histone modification
+Arrb1	0	-0.897124859	0	1.244252615	0	0	0	-0.618615801	0	0	0	0	0	-0.877704678	Histone modification	#	Histone modification	Histone modification
+Padi2	0	-0.797447535	0	0	0	0	0	0	0	0	0	0	0	0	Histone modification	Histone citrullination	Histone modification	Histone modification
+Padi4	0	1.4884222	0	-1.371767785	0	0	0	0	0	0.83499128	0	0	0	-0.960978363	Histone modification	Histone citrullination	Histone modification	Histone modification
+Gfi1b	0	-0.954676894	-1.597293016	2.515999226	0	0	0	0	0	-1.511132326	0	0	0	-1.006761185	Histone modification cofactor	#	Histone modification	Histone modification
+Ppargc1a	0	0	0	0	0	0	0	0	0	0	0	0	0	1.288826892	Histone modification cofactor	#	Histone modification	Histone modification
+Tle2	0	0	0	0.801390282	0	0	0	0	0	-0.66169989	0	0	0	0	Histone modification cofactor	#	Histone modification	Histone modification
+Atn1	0	0	0	0.944711088	0	0	0	0	0	0	0	0	0	0	Histone modification erase cofactor	#	Histone modification	Histone modification
+Hr	0	0	0	0	0	0	-1.61716889	0	0	0	0	0	0	0	Histone modification erase	Histone methylation	Histone modification	Histone methylation
+Jmjd1c	0	0	0	0	0	0	0	0	0	0.685748821	0	0	0	0	Histone modification erase	Histone methylation	Histone modification	Histone methylation
+Kdm1b	0	-1.001403653	0	0	0	0	0	0	0	0	-0.681357238	0	0	0	Histone modification erase	Histone methylation	Histone modification	Histone methylation
+Kdm6b	0	0	0	0	0	0	0.889217749	0	0	0	0	0	0	0	Histone modification erase	Histone methylation	Histone modification	Histone methylation
+Kdm7a	0	0	0	0	0	0	0.851938058	0	0	0.782568959	0	0	0	0	Histone modification erase	Histone methylation	Histone modification	Histone methylation
+Kdm8	0	0.852771006	0.625888124	-0.589582867	0	0	0	0	0	0	0	0	0.606257295	0	Histone modification erase	Histone methylation	Histone modification	Histone methylation
+Phf8	0	-0.680791263	0	0	0	0	0.601216799	0	0	0	0	0	0	0	Histone modification erase	Histone methylation	Histone modification	Histone methylation
+Carm1	0	-0.644055189	0	0	0	0	0.748502686	-0.679799175	0	-0.947562412	0	0	0	0	Histone modification write	Histone methylation	Histone modification	Histone methylation
+Dot1l	0	0	0	0	0	0	0.590391743	0	0	0	0	0	0.642209011	0	Histone modification write	Histone methylation	Histone modification	Histone methylation
+Ezh2	0	0.702929227	0	0	0	0	0	0	0	0	0	0	0	0	"Histone modification write, Polycomb group (PcG) protein"	Histone methylation	Histone modification	Histone methylation
+Fbl	0	0.66621295	0	0	0	0	0	0	0	0	0	0	-0.839688391	0	Histone modification write	Histone methylation	Histone modification	Histone methylation
+Kmt2a	0	0	0	0	0	0	0	0	0	0	0	0	0.624614447	0	Histone modification write	Histone methylation	Histone modification	Histone methylation
+Kmt2d	0	0	0	0	0	-0.650438363	0.800320272	0	0	0	0	0	0.588555585	0.622570042	Histone modification write	Histone methylation	Histone modification	Histone methylation
+Kmt2e	0	0	0	0	0	0	0.662163693	0	0	0.675521937	0	0	0	0	Histone modification write	Histone methylation	Histone modification	Histone methylation
+Prdm9	0	0	0	0	0	0	0.904537691	0	0	0	0	0	0	0	Histone modification write	Histone methylation	Histone modification	Histone methylation
+Prmt2	0	0	-0.666728193	1.486382891	0	0	0	0	0	-0.880832548	0	0	0	-0.73354444	Histone modification write	Histone methylation	Histone modification	Histone methylation
+Setd1b	0	0	0	0	0	0	0.90006031	0	0	0	0	0	0	0.590239543	Histone modification write	Histone methylation	Histone modification	Histone methylation
+Setd3	0	0	0	0.653031151	0	0	0	0	0	0	0	0	0	0	Histone modification write	Histone methylation	Histone modification	Histone methylation
+Setmar	0	0	0	0.655494748	0	0	-0.78542035	0	0	0	0	0	0	-0.821830172	Histone modification write	Histone methylation	Histone modification	Histone methylation
+Smyd2	0	0	0	-0.897465243	0	0	-0.968744196	0	0	0	0	0	0	0	Histone modification write	Histone methylation	Histone modification	Histone methylation
+Cdc73	0	-0.746892437	0	0	0	0	0.70899237	0	0	0.812989555	0	0	0	0.794787289	Histone modification write cofactor	Histone methylation	Histone modification	Histone methylation
+Cit	0	0	0	0	0	-0.773293472	0	0	0	-1.390743457	0	-0.725097057	0	0	"Histone modification write cofactor, Histone modification write cofactor"	"Histone methylation, Histone phosphorylation"	Histone modification	Histone methylation
+Ctbp2	0	0.678409875	0	0	0	0	0	0	0	0	0	0	0	-0.864755165	Histone modification write cofactor	Histone methylation	Histone modification	Histone methylation
+Dpy30	0	0.76360847	0	0	0	0	-0.653619666	0	0	0	0	0	0	0	Histone modification write cofactor	Histone methylation	Histone modification	Histone methylation
+Hspa1a	0	0	0	0	0	0	0	0	0	0	0	2.029352068	0	0	"Histone modification write cofactor, Histone modification write cofactor"	"Histone methylation, Histone acetylation"	Histone modification	Histone methylation
+Max	0	-1.321501942	-0.989970937	1.390240713	0	0	0	0	0	0	0	0	0	-0.677774749	"Histone modification write cofactor, TF"	"Histone methylation, Histone acetylation, TF activator, TF repressor"	Histone modification	Histone methylation
+Mbd2	0	-0.726300973	0	0	0	0	0	0	0	0	0	0	0	0	"Histone modification write cofactor, Histone modification erase cofactor, TF"	"Histone methylation, Histone acetylation, TF repressor"	Histone modification	Histone methylation
+Ncoa6	0	0	0	0	0	0	0.647539585	0	0	0	0	0	0.627909354	0	Histone modification write cofactor	Histone methylation	Histone modification	Histone methylation
+Prdm1	0.662214459	-0.827361287	0	0	0	0	0	0	0	0.848298795	0	0	0	0	Histone modification write cofactor	Histone methylation	Histone modification	Histone methylation
+Rara	0	0	0	0	0	0	0	0	0	0	0	0	0	-0.617864398	"Histone modification write cofactor, TF"	"Histone methylation, TF activator, TF repressor"	Histone modification	Histone methylation
+Brcc3	0	0	0	0	0	0	0.592097862	0	0	0	0	0	0	0	Histone modification erase	Histone deubiquitination	Histone modification	Histone deubiquitination
+Bcorl1	0	0	0	0	0	0	0.948609527	0	0	0	0	0	0.694997692	0	Histone modification erase cofactor	Histone deacetylation	Histone modification	Histone deacetylation
+Hdac10	0	0.676481904	0	0	0	0	0	0	-0.594107252	0	0	0	0	0	Histone modification erase	Histone acetylation	Histone modification	Histone acetylation
+Hdac11	0	0	0	-1.120938599	0	0	0	0	0	0	0	0	0	0	Histone modification erase	Histone acetylation	Histone modification	Histone acetylation
+Hdac4	0	0	0	0	0	0	0	0	0	0.715886349	0	-0.659660234	0	-0.589146256	Histone modification erase	Histone acetylation	Histone modification	Histone acetylation
+Hdac5	0	0	0	0.771543883	0	0	0	0	0	0	0	0	0	-0.618292965	Histone modification erase	Histone acetylation	Histone modification	Histone acetylation
+Hdac8	0	0	0	0	0	0	0.742141578	0	0	0	0	0	0	0	Histone modification erase	Histone acetylation	Histone modification	Histone acetylation
+Hdac9	0	0	0	-0.783762673	0	0	0	0	0	0	0	0.817117092	0	0	Histone modification erase	Histone acetylation	Histone modification	Histone acetylation
+Sirt1	0	-0.585788555	0	0	0	0	0	0	0	0	0	0	0	0	"Histone modification erase, Histone modification write cofactor"	"Histone acetylation, Histone methylation"	Histone modification	Histone acetylation
+Ncor2	0	0	0	0	0	0	0.829099785	0	0	0	0	0	0	0	Histone modification erase cofactor	Histone acetylation	Histone modification	Histone acetylation
+Nipbl	0	0	0	0	0	0	0	0	0	0.585997145	0	0	0	0	Histone modification erase cofactor	Histone acetylation	Histone modification	Histone acetylation
+Rcor3	0	0	0	0	0	0	0	0	0	0.662448909	0	0	0	0	Histone modification erase cofactor	Histone acetylation	Histone modification	Histone acetylation
+Sap130	0	0	0	0	0	0	0.602805533	0	0	0	0	0	0	0	Histone modification erase cofactor	Histone acetylation	Histone modification	Histone acetylation
+Sap30	0	0	0	0	0	0	0	0	0	0.64832139	0	0	0	0	Histone modification erase cofactor	Histone acetylation	Histone modification	Histone acetylation
+Sap30l	0	0	-0.767648858	1.023795388	0	0	0	0	0	-0.909494152	0	0	0	-0.619593829	Histone modification erase cofactor	Histone acetylation	Histone modification	Histone acetylation
+Smyd4	0	0	0	0	0	0	0	0	0	-0.694802421	0	0	0	0	Histone modification erase cofactor	Histone acetylation	Histone modification	Histone acetylation
+Spen	0	0	0	0	0	0	0	0	0	0	0	0	0.709264701	0	"Histone modification erase cofactor, TF"	"Histone acetylation, TF activator, TF repressor"	Histone modification	Histone acetylation
+Suds3	0	0	0	0	0	0	0	0	-0.616655656	0	0	0	0	0	Histone modification erase cofactor	Histone acetylation	Histone modification	Histone acetylation
+Zfp516	0	0	0	0	0	0	0	0	0	0.617163519	0	0	0	0	"Histone modification erase cofactor, TF"	"Histone acetylation, TF repressor"	Histone modification	Histone acetylation
+Atf2	0	-0.62192476	0	0	0	0	0	0	0	0	0	0	0	0	"Histone modification write, TF"	"Histone acetylation, TF activator"	Histone modification	Histone acetylation
+Clock	0	0	0	0	0	0	0	0	0	0.666109765	0	0	0	0	Histone modification write	Histone acetylation	Histone modification	Histone acetylation
+Crebbp	0	0	0	0	0	0	0.910934021	0	0	0	0	0	0	0	Histone modification write	Histone acetylation	Histone modification	Histone acetylation
+Elp3	0	0	0	0	0	0	0	0	0	0	0	0.588463085	0	0	Histone modification write	Histone acetylation	Histone modification	Histone acetylation
+Jade3	0	-0.912324011	0	0	0	0	0	0	0	0	0	0	0	0	Histone modification write	Histone acetylation	Histone modification	Histone acetylation
+Ncoa1	0	-0.626728318	0	0	0	0	0	0	0	0	0	0	0	0	Histone modification write	Histone acetylation	Histone modification	Histone acetylation
+Trim16	0	0	0	0	0	0	0	0	0	0.804344753	0	0	0	0	Histone modification write	Histone acetylation	Histone modification	Histone acetylation
+Arid4a	0	0	0	0	0	0	0	0.660242558	0	0	0	0	0	0	Histone modification write cofactor	Histone acetylation	Histone modification	Histone acetylation
+Arid4b	0	0	0	0	0	0	0.70269988	0.729426033	0	0	0	0	0	0	Histone modification write cofactor	Histone acetylation	Histone modification	Histone acetylation
+Brca1	0	-0.664125565	0	0	0	0	0.61826886	0	0	0	0	0	0	0	"Histone modification write cofactor, TF"	"Histone acetylation, Histone methylation, Histone ubiquitination, TF activator, TF repressor"	Histone modification	Histone acetylation
+Brpf3	0	0	0	0	0	0	0.639842013	0	0	0	0	-0.75954014	0	0	Histone modification write cofactor	Histone acetylation	Histone modification	Histone acetylation
+Eid1	0	0	0	0	0	0	0	0	0	0	0	0	-0.60835567	0	Histone modification write cofactor	Histone acetylation	Histone modification	Histone acetylation
+Elp4	0	0	0	-1.532287215	0	0	0	0	0	0	0	0	0	0	Histone modification write cofactor	Histone acetylation	Histone modification	Histone acetylation
+Elp6	0	0.868100674	0	0	0	0	0	0	0	0	0	0	0	0	Histone modification write cofactor	Histone acetylation	Histone modification	Histone acetylation
+Tada2b	0	-0.65024864	0	0	0	0	0	0	0	0	0	0	0	0	Histone modification write cofactor	Histone acetylation	Histone modification	Histone acetylation
+Yeats4	0	0.604057149	0	0	0	0	0	0	0	0	0	0	0	0	Histone modification write cofactor	Histone acetylation	Histone modification	Histone acetylation
+Zbtb33	0	-1.433013656	0	0	0	0	0.619517149	0	0	0.795516319	-0.694970139	0	0	1.076566106	"Histone modification write cofactor, Histone modification erase cofactor, TF"	"Histone acetylation, Histone methylation, TF repressor"	Histone modification	Histone acetylation
+Eed	0	0	0	0	0	0	0	0	0	0	0	0	0	0.635942098	Polycomb group (PcG) protein	#	Polycomb group (PcG) protein	Polycomb group (PcG) protein
+Pcgf1	0	0.729502791	0	0	0	0	0	0	0	0	0	0	0	0	Polycomb group (PcG) protein	#	Polycomb group (PcG) protein	Polycomb group (PcG) protein
+Pcgf6	0	0	0	0	0	0	0	0	0	0	0	0.647808048	0	0	Polycomb group (PcG) protein	#	Polycomb group (PcG) protein	Polycomb group (PcG) protein
+Phc3	0	0	0	0	0	0	0	0	0	0.813459298	0	0	0	0.630900009	Polycomb group (PcG) protein	#	Polycomb group (PcG) protein	Polycomb group (PcG) protein
+Rybp	0	-1.174831678	0	0	0	0	0	0	0	0	0	0	0	0	Polycomb group (PcG) protein	#	Polycomb group (PcG) protein	Polycomb group (PcG) protein
+Dnd1	0	0.998053525	0	0	0	0	0	0	0	0	0	0	0	0	RNA modification	#	RNA modification	RNA modification
+Sf3b1	0	0	0	-0.625247079	0	0	0	0	0	0	0	0	0	0	RNA modification	#	RNA modification	RNA modification
+Syncrip	0	0	0	0	0	0	0	0	0	0	0	0	0	0.585466661	RNA modification	mRNA editing	RNA modification	RNA modification
+Exosc3	0	0	0	0	0	0	0	0.64153119	0	0	0	0	0	0	"Scaffold protein, RNA modification"	RNA degradation	RNA modification	RNA modification
+Exosc4	0	0	0	0	0	0	-0.641179307	0	0	0	0	0	0	0	"Scaffold protein, RNA modification"	RNA degradation	RNA modification	RNA modification
+Exosc5	0	0.680376082	0	0	0	0	0	0	0	0	0	0	0	0	"Scaffold protein, RNA modification"	RNA degradation	RNA modification	RNA modification
