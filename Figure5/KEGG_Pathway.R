@@ -3,7 +3,7 @@ library(org.Mm.eg.db)
 mm<-org.Mm.eg.db
 
 data<-readRDS("20260226_liver_blood_adult_Gene.txt") 
-#Please get the data from here: https://regmedsrv1.wustl.edu/Public_SPACE/bmiao/Public_html/TaRGET/Result/
+#Please get the data from here: https://regmedsrv1.wustl.edu/Public_SPACE/bmiao/Public_html/TaRGET/Result/DEG/
 data$new<-paste(as.character(data$lab),as.character(data$cond1),sep="_")
 tp<-as.character(data$type)
 tp<-tp[!(duplicated(tp))]
